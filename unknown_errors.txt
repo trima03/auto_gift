@@ -1,0 +1,1 @@
+2025-06-08 02:45:23.695849	[400 BALANCE_TOO_LOW]	payments.SendStarsForm
